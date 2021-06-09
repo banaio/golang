@@ -1,4 +1,4 @@
-FROM golang:1.13.4-alpine3.10
+FROM golang:1.13-alpine3.10
 
 LABEL maintainer="Mohamed Bana <m@bana.io>"
 
